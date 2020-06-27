@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(238, 157, 51);
+}
+
+h1{
+    color: #bd6a26;
+    font-size: 100px;
+    font-family: 'Lily Script One', cursive;
+
+
+
+
+}
+p{
+    color: ##B13A07;
+    font-family: 'Lily Script One', cursive;
+
+}
+
+/*  Selectors */
+.pizza{
+    width: 200px;
+    background-color: darkmagenta;
+
+}
+
+
+/* Id Selectors */
+#heading{
+    color: rgb(51, 80, 14);
+}
